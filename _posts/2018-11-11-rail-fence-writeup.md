@@ -7,9 +7,9 @@ tags: CTF 栅栏 加密
 excerpt: 我家篱笆旁的栅栏被捣乱了！第一根和第二根都被换了位置····
 ---
 
-# WhaleCTF 之栅栏加密
 * content
 {:toc}
+
 
 ## 题目：
 
@@ -19,6 +19,10 @@ excerpt: 我家篱笆旁的栅栏被捣乱了！第一根和第二根都被换�
 >udJZml2VYVuWkdxXXs2Ne1DV5V9XEs2ZdZ7WlSNbVrm9eNDSlaFXG91F
 >
 >谁能帮我修好呢？ flag格式： venusCTF{xxx}
+
+
+
+
 
 ## 题解：
 （我觉得这题出的不好，最后再讨论怎么不好）
