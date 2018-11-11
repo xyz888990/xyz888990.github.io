@@ -36,6 +36,14 @@ comment_gitment_repo: xyz888990.github.io
 comment_gitment_clientId: 1d8dda244de9f091532c
 comment_gitment_clientSecret: 212e94b8e193a290211d3ca944070a1650b58cbc
 
+#gitalk
+enable: true
+owner: xyz888990
+repo: xyz888990.github.io
+clientID: f1563655c00cb14a1521
+clientSecret: 12a92c0001729af9e81f9ea35087c97dea49aacb
+admin: XYZ
+
 # statistic analysis 统计代码
 # 百度统计 id，将统计代码替换为自己的百度统计id，即
 # hm.src = "//hm.baidu.com/hm.js?xxxxxxxxxxxx";
