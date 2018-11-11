@@ -1,6 +1,6 @@
 ﻿---
 layout: post
-title:  "栅栏加密Writeup!"
+title:  "WhaleCTF之栅栏加密Writeup!"
 date:   2018-11-11 17:30:54
 categories: CTF WhaleCTF
 tags: CTF 栅栏 加密
