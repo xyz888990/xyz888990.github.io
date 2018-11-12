@@ -6,10 +6,10 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: XYZxyz 的技术专栏
+title: XYZ 的技术专栏
 brief-intro: 我们的CTF成长记录
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://xyz888990.github.io" # the base hostname & protocol for your site
+url: "https://888990.xyz" # the base hostname & protocol for your site
 
 permalink: /:year/:month/:day/:title/
 
@@ -23,7 +23,7 @@ email: 86085731@QQ.com
 #linkedIn_username: xyz
 #dribbble_username:
 
-description_footer: 来自 XYZxyz 的个人专栏！
+description_footer: 来自 XYZ 的个人专栏！
 
 # comments
 # two ways to comment, only choose one, and use your own short name
@@ -31,18 +31,13 @@ description_footer: 来自 XYZxyz 的个人专栏！
 duoshuo_shortname: #hygblog
 disqus_shortname: #gaohaoyang
 
-#gitment
-comment_gitment_repo: xyz888990.github.io
-comment_gitment_clientId: 1d8dda244de9f091532c
-comment_gitment_clientSecret: 212e94b8e193a290211d3ca944070a1650b58cbc
-
 #gitalk
 enable: true
 owner: xyz888990
 repo: xyz888990.github.io
 clientID: f1563655c00cb14a1521
 clientSecret: 12a92c0001729af9e81f9ea35087c97dea49aacb
-admin: XYZ
+admin: xyz888990
 
 # statistic analysis 统计代码
 # 百度统计 id，将统计代码替换为自己的百度统计id，即
